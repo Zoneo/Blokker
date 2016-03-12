@@ -1,2 +1,2 @@
 # Blokker
-# Online game developed in javascript, CSS and HTML.
+Online game developed in javascript, CSS and HTML.
